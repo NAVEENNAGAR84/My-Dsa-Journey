@@ -43,4 +43,8 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
