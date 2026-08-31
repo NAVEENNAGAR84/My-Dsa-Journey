@@ -48,6 +48,7 @@ leetcode-problems-solution
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0292-nim-game) |
+| [0492-construct-the-rectangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0492-construct-the-rectangle) |
 ## Brainteaser
 |  |
 | ------- |
