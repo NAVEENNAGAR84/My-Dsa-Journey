@@ -91,6 +91,7 @@ leetcode-problems-solution
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
@@ -111,6 +112,7 @@ leetcode-problems-solution
 | ------- |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
