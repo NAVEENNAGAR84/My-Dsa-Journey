@@ -91,6 +91,7 @@ leetcode-problems-solution
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
@@ -104,6 +105,7 @@ leetcode-problems-solution
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
