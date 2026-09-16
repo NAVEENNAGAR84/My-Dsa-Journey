@@ -94,6 +94,7 @@ leetcode-problems-solution
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0860-lemonade-change](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0860-lemonade-change) |
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0896-monotonic-array) |
@@ -137,6 +138,7 @@ leetcode-problems-solution
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0860-lemonade-change) |
 ## Geometry
 |  |
 | ------- |
