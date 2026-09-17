@@ -89,6 +89,7 @@ leetcode-problems-solution
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -110,6 +111,7 @@ leetcode-problems-solution
 | ------- |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
