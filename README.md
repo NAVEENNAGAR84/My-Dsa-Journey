@@ -94,6 +94,7 @@ leetcode-problems-solution
 | [0605-can-place-flowers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0860-lemonade-change) |
