@@ -165,4 +165,20 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
