@@ -19,6 +19,7 @@ leetcode-problems-solution
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 | [1446-consecutive-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1446-consecutive-characters) |
 ## String Matching
 |  |
@@ -26,18 +27,21 @@ leetcode-problems-solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -47,10 +51,12 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
 | ------- |
