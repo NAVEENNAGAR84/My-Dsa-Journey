@@ -178,6 +178,7 @@ leetcode-problems-solution
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -191,4 +192,16 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
