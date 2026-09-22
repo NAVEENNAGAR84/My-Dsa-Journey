@@ -178,6 +178,7 @@ leetcode-problems-solution
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
 ## Design
@@ -195,13 +196,16 @@ leetcode-problems-solution
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
