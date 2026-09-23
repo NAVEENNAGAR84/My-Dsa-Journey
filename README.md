@@ -99,6 +99,7 @@ leetcode-problems-solution
 | ------- |
 | [0027-remove-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
@@ -153,6 +154,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 ## Greedy
