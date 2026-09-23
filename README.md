@@ -207,12 +207,14 @@ leetcode-problems-solution
 | [0102-binary-tree-level-order-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -220,10 +222,12 @@ leetcode-problems-solution
 | [0102-binary-tree-level-order-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Simulation
 |  |
 | ------- |
@@ -236,4 +240,8 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
