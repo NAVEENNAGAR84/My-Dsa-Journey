@@ -73,6 +73,7 @@ leetcode-problems-solution
 | [0836-rectangle-overlap](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Brainteaser
 |  |
@@ -119,6 +120,7 @@ leetcode-problems-solution
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3903-smallest-stable-index-i) |
@@ -222,4 +224,16 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0102-binary-tree-level-order-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
