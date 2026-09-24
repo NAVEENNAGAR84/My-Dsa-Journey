@@ -1,18 +1,23 @@
 class Solution {
 public:
     vector<int> intersection(vector<vector<int>>& nums) {
-        unordered_map<int, int> mp;
-        vector<int> ans;
-
-        for (auto& arr : nums) {
-            for (auto x : arr) {
-                mp[x]++;
-                if (mp[x] == nums.size()) {
-                    ans.push_back(x);
-                }
-            }
+        vector<int>ans;
+       vector<int>freq(1001,0);
+       for(auto &arr:nums)
+       {
+        for(int x:arr)
+        {
+            freq[x]++;
         }
-         sort(ans.begin(),ans.end());
-        return ans;
+       }
+       for(int i=1;i<=1000;i++)
+       {
+        if(freq[i]==nums.size())
+        {
+            ans.push_back(i);
+        }
+       }
+       return ans;
+    
     }
 };
