@@ -20,6 +20,7 @@ leetcode-problems-solution
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
+| [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 | [1446-consecutive-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1446-consecutive-characters) |
 ## String Matching
@@ -121,6 +122,7 @@ leetcode-problems-solution
 | [0896-monotonic-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
@@ -145,6 +147,7 @@ leetcode-problems-solution
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
+| [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
