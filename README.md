@@ -22,6 +22,7 @@ leetcode-problems-solution
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
+| [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1446-consecutive-characters) |
 ## String Matching
 |  |
@@ -124,6 +125,7 @@ leetcode-problems-solution
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -153,6 +155,7 @@ leetcode-problems-solution
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
 ## Bit Manipulation
