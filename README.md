@@ -23,6 +23,7 @@ leetcode-problems-solution
 | [0771-jewels-and-stones](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1446-consecutive-characters) |
@@ -127,6 +128,7 @@ leetcode-problems-solution
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
@@ -159,6 +161,7 @@ leetcode-problems-solution
 | [0771-jewels-and-stones](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -291,6 +294,7 @@ leetcode-problems-solution
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Lifting
 |  |
