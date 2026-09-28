@@ -8,6 +8,7 @@ leetcode-problems-solution
 | ------- |
 | [0027-remove-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
@@ -18,6 +19,7 @@ leetcode-problems-solution
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0771-jewels-and-stones) |
