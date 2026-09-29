@@ -28,6 +28,7 @@ leetcode-problems-solution
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
@@ -84,6 +85,7 @@ leetcode-problems-solution
 | [0836-rectangle-overlap](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Brainteaser
@@ -322,4 +324,12 @@ leetcode-problems-solution
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
