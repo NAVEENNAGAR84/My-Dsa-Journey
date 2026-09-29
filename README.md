@@ -14,6 +14,7 @@ leetcode-problems-solution
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ leetcode-problems-solution
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
+| [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
@@ -131,6 +133,7 @@ leetcode-problems-solution
 | [0896-monotonic-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -196,6 +199,7 @@ leetcode-problems-solution
 | [0134-gas-station](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
 ## Geometry
 |  |
 | ------- |
