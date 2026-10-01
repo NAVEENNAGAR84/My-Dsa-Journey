@@ -24,6 +24,7 @@ leetcode-problems-solution
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
