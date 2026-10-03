@@ -121,6 +121,7 @@ leetcode-problems-solution
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
@@ -169,6 +170,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0409-longest-palindrome) |
@@ -382,4 +384,8 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
