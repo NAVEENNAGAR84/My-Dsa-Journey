@@ -117,6 +117,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0027-remove-element) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -172,6 +173,7 @@ leetcode-problems-solution
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -263,6 +265,7 @@ leetcode-problems-solution
 | [0102-binary-tree-level-order-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -316,6 +319,7 @@ leetcode-problems-solution
 | [0102-binary-tree-level-order-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -405,4 +409,8 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
