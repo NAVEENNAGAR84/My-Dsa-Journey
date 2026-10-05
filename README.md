@@ -43,6 +43,7 @@ leetcode-problems-solution
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
@@ -73,6 +74,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
@@ -286,6 +288,7 @@ leetcode-problems-solution
 | [0437-path-sum-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -312,6 +315,7 @@ leetcode-problems-solution
 | [0437-path-sum-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -341,6 +345,7 @@ leetcode-problems-solution
 | [0437-path-sum-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
