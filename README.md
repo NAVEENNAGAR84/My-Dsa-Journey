@@ -135,6 +135,7 @@ leetcode-problems-solution
 | [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0605-can-place-flowers) |
@@ -189,6 +190,7 @@ leetcode-problems-solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
@@ -209,6 +211,7 @@ leetcode-problems-solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
