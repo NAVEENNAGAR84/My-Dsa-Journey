@@ -133,6 +133,7 @@ leetcode-problems-solution
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
@@ -189,6 +190,7 @@ leetcode-problems-solution
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
