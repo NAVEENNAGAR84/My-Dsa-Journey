@@ -130,6 +130,7 @@ leetcode-problems-solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
@@ -218,6 +219,7 @@ leetcode-problems-solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
@@ -268,6 +270,7 @@ leetcode-problems-solution
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
