@@ -139,6 +139,7 @@ leetcode-problems-solution
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -197,6 +198,7 @@ leetcode-problems-solution
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -217,6 +219,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
