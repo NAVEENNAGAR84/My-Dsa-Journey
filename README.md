@@ -156,6 +156,7 @@ leetcode-problems-solution
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -205,6 +206,7 @@ leetcode-problems-solution
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -223,6 +225,7 @@ leetcode-problems-solution
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3903-smallest-stable-index-i) |
