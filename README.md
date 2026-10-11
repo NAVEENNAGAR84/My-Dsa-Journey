@@ -146,6 +146,7 @@ leetcode-problems-solution
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
@@ -224,6 +225,7 @@ leetcode-problems-solution
 | [0303-range-sum-query-immutable](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
@@ -263,6 +265,7 @@ leetcode-problems-solution
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
 |  |
 | ------- |
@@ -467,6 +470,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
