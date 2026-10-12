@@ -128,6 +128,7 @@ leetcode-problems-solution
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
@@ -258,6 +259,7 @@ leetcode-problems-solution
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 ## Binary Search
@@ -343,6 +345,7 @@ leetcode-problems-solution
 | [0129-sum-root-to-leaf-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -406,6 +409,7 @@ leetcode-problems-solution
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0662-maximum-width-of-binary-tree) |
@@ -481,4 +485,8 @@ leetcode-problems-solution
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
