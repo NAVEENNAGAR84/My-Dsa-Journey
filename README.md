@@ -161,6 +161,7 @@ leetcode-problems-solution
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -266,6 +267,7 @@ leetcode-problems-solution
 | [0733-flood-fill](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0733-flood-fill) |
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
+| [0994-rotting-oranges](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -423,6 +425,7 @@ leetcode-problems-solution
 | [0733-flood-fill](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Simulation
