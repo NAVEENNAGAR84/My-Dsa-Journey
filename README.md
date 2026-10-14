@@ -131,6 +131,7 @@ leetcode-problems-solution
 | [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0303-range-sum-query-immutable](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -179,6 +180,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
@@ -488,6 +490,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -501,4 +504,12 @@ leetcode-problems-solution
 | ------- |
 | [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
