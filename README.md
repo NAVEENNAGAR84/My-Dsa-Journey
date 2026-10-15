@@ -89,6 +89,7 @@ leetcode-problems-solution
 | [0292-nim-game](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0492-construct-the-rectangle) |
+| [0523-continuous-subarray-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0836-rectangle-overlap) |
@@ -140,6 +141,7 @@ leetcode-problems-solution
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +208,7 @@ leetcode-problems-solution
 | [0442-find-all-duplicates-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -230,6 +233,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
@@ -512,4 +516,8 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
