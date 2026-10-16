@@ -32,6 +32,8 @@ public:
             {
                 dfs(adj,color,i,0);
             }
+            if(!res)
+              return res;
         }
         return res;
         
