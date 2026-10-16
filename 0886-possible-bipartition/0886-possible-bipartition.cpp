@@ -26,7 +26,7 @@ public:
             adj[v].push_back(u);
         }
         vector<int>color(n+1,-1);
-        for(int i=1;i<=n;i++)
+        for(int i=0;i<=n;i++)
         {
             if(color[i]==-1)
             {
