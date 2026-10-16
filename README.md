@@ -372,6 +372,7 @@ leetcode-problems-solution
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -430,6 +431,7 @@ leetcode-problems-solution
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -508,6 +510,7 @@ leetcode-problems-solution
 | ------- |
 | [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -520,4 +523,16 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0523-continuous-subarray-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
