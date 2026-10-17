@@ -19,6 +19,8 @@ public:
     }
    }
     void solve(vector<vector<char>>& board) {
+        if(board.empty() || board[0].empty())
+          return ;
         int row=board.size();
         int col=board[0].size();
         for(int i=0;i<col;i++)
