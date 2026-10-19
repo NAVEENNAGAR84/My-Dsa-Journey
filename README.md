@@ -171,6 +171,7 @@ leetcode-problems-solution
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2121-intervals-between-identical-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
@@ -224,6 +225,7 @@ leetcode-problems-solution
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
+| [2121-intervals-between-identical-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -243,6 +245,7 @@ leetcode-problems-solution
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2121-intervals-between-identical-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
