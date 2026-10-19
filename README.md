@@ -177,6 +177,7 @@ leetcode-problems-solution
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
@@ -226,6 +227,7 @@ leetcode-problems-solution
 | [2215-find-the-difference-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@ leetcode-problems-solution
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
