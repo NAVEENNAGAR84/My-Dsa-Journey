@@ -123,6 +123,7 @@ leetcode-problems-solution
 | ------- |
 | [0027-remove-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0118-pascals-triangle) |
