@@ -122,6 +122,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0118-pascals-triangle) |
@@ -184,6 +185,7 @@ leetcode-problems-solution
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -552,4 +554,8 @@ leetcode-problems-solution
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0886-possible-bipartition) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
