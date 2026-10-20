@@ -1,0 +1,25 @@
+class Solution {
+public:
+    vector<vector<int>> merge(vector<vector<int>>& nums) {
+        sort(nums.begin(),nums.end());
+        vector<vector<int>>ans;
+        int row= nums.size();
+        ans.push_back(nums[0]);
+        for(int i=1;i<row;i++)
+        {
+            if(nums[i][0]<=ans.back()[1])
+            {
+                ans.back()[1]=max(ans.back()[1],nums[i][1]);
+            }
+            else
+            {
+                ans.push_back(nums[i]);
+            }
+        }
+
+       
+
+        return ans;
+
+    }
+};
