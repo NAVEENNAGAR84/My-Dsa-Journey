@@ -5,30 +5,20 @@ public:
         int small=INT_MAX;
         for(auto x:nums)
         {
-            mp[x]++;
+            if(x%2==0) 
+              mp[x]++;
         }
-        vector<vector<int>>bucket(nums.size()+1);
+        int ans=-1,maxfreq=0;
         for(auto x:mp)
         {
-            int digit=x.first;
-            int freq=x.second;
-            bucket[freq].push_back(digit);
+            if(x.second>maxfreq || (x.second==maxfreq && x.first<ans))
+             {
+                maxfreq=x.second;
+                ans=x.first;
+             }
         }
-        for(int i=nums.size();i>=0;i--)
-        {
-            for(int a:bucket[i])
-            {
-                if(a%2==0)
-                {
-                   if(a<small)
-                     small=a;
-                }
-
-            }
-            if(small!=INT_MAX)
-              return small;
-        }
-        return -1;
+        return ans;
+        
 
     }
 };
