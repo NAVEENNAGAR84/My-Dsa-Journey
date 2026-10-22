@@ -180,6 +180,7 @@ leetcode-problems-solution
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2404-most-frequent-even-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
@@ -236,6 +237,7 @@ leetcode-problems-solution
 | [2121-intervals-between-identical-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
+| [2404-most-frequent-even-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
 ## Bit Manipulation
@@ -486,6 +488,7 @@ leetcode-problems-solution
 | [0347-top-k-frequent-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0347-top-k-frequent-elements) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
+| [2404-most-frequent-even-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2404-most-frequent-even-element) |
 ## Binary Lifting
 |  |
 | ------- |
