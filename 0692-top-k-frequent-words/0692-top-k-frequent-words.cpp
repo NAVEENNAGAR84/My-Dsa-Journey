@@ -1,31 +1,40 @@
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
-        unordered_map<string,int>mp;
-        int n=words.size();
-        for(auto x:words)
-        {
-            mp[x]++; 
+        unordered_map<string, int> mp;
+
+        struct cmp {
+            bool operator()(const pair<string, int>& a, const pair<string, int>& b) {
+                if (a.second != b.second)
+                    return a.second > b.second;
+
+                return a.first < b.first;
+            }
+        } ;
+        priority_queue<pair<string, int>, vector<pair<string, int>>, cmp> pq;
+        int n = words.size();
+        for (auto x : words) {
+            mp[x]++;
         }
-        vector<vector<string>>bucket(n+1);
-        for(auto x:mp)
-        {
-            bucket[x.second].push_back(x.first);
-        }
-        vector<string>ans;
-        for(int i=n;i>=0;i--)
-        {
-            sort(bucket[i].begin(),bucket[i].end());
-             for(auto x:bucket[i])
-            {
-                ans.push_back(x);
-            if(ans.size()==k)
-              return ans;
+        for (auto x : mp) {
+            pair<string, int> curr = x;
+            if (pq.size() < k) {
+                pq.push(curr);
+                continue;
             }
 
+            if (curr.second < pq.top().second || (curr.second==pq.top().second && curr.first>pq.top().first))
+                  continue;
+
+            pq.pop();
+            pq.push(curr);
         }
-        
+        vector<string> ans;
+        while (!pq.empty()) {
+            ans.push_back(pq.top().first);
+            pq.pop();
+        }
+        reverse(ans.begin(),ans.end());
         return ans;
-        
     }
 };
