@@ -31,6 +31,7 @@ leetcode-problems-solution
 | [0520-detect-capital](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
+| [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
@@ -156,6 +157,7 @@ leetcode-problems-solution
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0724-find-pivot-index) |
@@ -203,6 +205,7 @@ leetcode-problems-solution
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
@@ -230,6 +233,7 @@ leetcode-problems-solution
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0804-unique-morse-code-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -490,6 +494,7 @@ leetcode-problems-solution
 | ------- |
 | [0229-majority-element-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2404-most-frequent-even-element) |
@@ -548,6 +553,7 @@ leetcode-problems-solution
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
 ## Ordered Set
 |  |
 | ------- |
@@ -580,6 +586,7 @@ leetcode-problems-solution
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -589,4 +596,8 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0229-majority-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
