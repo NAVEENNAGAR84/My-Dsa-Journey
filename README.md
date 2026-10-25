@@ -19,6 +19,7 @@ leetcode-problems-solution
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
+| [0986-interval-list-intersections](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -174,6 +175,7 @@ leetcode-problems-solution
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -603,4 +605,8 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
