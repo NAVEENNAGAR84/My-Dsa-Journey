@@ -24,6 +24,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0345-reverse-vowels-of-a-string) |
