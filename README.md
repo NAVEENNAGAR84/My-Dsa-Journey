@@ -616,4 +616,8 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
