@@ -260,6 +260,7 @@ leetcode-problems-solution
 | [0190-reverse-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0693-binary-number-with-alternating-bits) |
 ## Prefix Sum
 |  |
 | ------- |
