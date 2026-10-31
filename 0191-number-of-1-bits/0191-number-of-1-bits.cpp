@@ -4,11 +4,8 @@ public:
         long long hw=0;
         while(n>0)
         {
-            long long rem=n%2;
-            n=n/2;
-            if(rem==1)
-             hw++;
-
+            hw++;
+            n=n&(n-1);
         }
         return hw; 
         
