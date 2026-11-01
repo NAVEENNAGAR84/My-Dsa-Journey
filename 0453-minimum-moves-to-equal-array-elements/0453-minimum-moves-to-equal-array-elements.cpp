@@ -6,9 +6,10 @@ public:
         int sum=0;
         for(int x:nums)
         {
-            sum+=x;
+          x-=mn;
+          sum+=x;
         }
-        return sum-n*mn;
+        return sum;
 
 
         
