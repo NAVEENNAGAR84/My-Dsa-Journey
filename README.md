@@ -137,6 +137,7 @@ leetcode-problems-solution
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0215-kth-largest-element-in-an-array) |
@@ -257,6 +258,7 @@ leetcode-problems-solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0461-hamming-distance) |
