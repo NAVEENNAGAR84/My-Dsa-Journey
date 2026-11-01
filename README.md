@@ -194,6 +194,7 @@ leetcode-problems-solution
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
@@ -255,6 +256,7 @@ leetcode-problems-solution
 | [2404-most-frequent-even-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,6 +266,7 @@ leetcode-problems-solution
 | [0461-hamming-distance](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0693-binary-number-with-alternating-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
