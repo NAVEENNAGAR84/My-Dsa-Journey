@@ -93,6 +93,7 @@ leetcode-problems-solution
 | [0172-factorial-trailing-zeroes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -153,6 +154,7 @@ leetcode-problems-solution
 | [0442-find-all-duplicates-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0525-contiguous-array) |
@@ -211,6 +213,7 @@ leetcode-problems-solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
