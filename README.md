@@ -8,6 +8,7 @@ leetcode-problems-solution
 | ------- |
 | [0027-remove-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -633,5 +634,6 @@ leetcode-problems-solution
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
