@@ -104,6 +104,7 @@ leetcode-problems-solution
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Brainteaser
 |  |
@@ -199,6 +200,7 @@ leetcode-problems-solution
 | [2574-left-and-right-sum-differences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
