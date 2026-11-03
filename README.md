@@ -339,10 +339,12 @@ leetcode-problems-solution
 | [0094-binary-tree-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -640,4 +642,8 @@ leetcode-problems-solution
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
