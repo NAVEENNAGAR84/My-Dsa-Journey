@@ -426,6 +426,7 @@ leetcode-problems-solution
 | [0662-maximum-width-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0886-possible-bipartition) |
@@ -487,6 +488,7 @@ leetcode-problems-solution
 | [0662-maximum-width-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0886-possible-bipartition) |
@@ -596,6 +598,7 @@ leetcode-problems-solution
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0886-possible-bipartition) |
 ## Graph Coloring
@@ -618,6 +621,7 @@ leetcode-problems-solution
 | [0215-kth-largest-element-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -648,4 +652,12 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0232-implement-queue-using-stacks) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
