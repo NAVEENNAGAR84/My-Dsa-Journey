@@ -388,6 +388,7 @@ leetcode-problems-solution
 | [0404-sum-of-left-leaves](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0572-subtree-of-another-tree) |
@@ -424,6 +425,7 @@ leetcode-problems-solution
 | [0404-sum-of-left-leaves](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0572-subtree-of-another-tree) |
@@ -467,6 +469,7 @@ leetcode-problems-solution
 | [0404-sum-of-left-leaves](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0572-subtree-of-another-tree) |
@@ -493,6 +496,7 @@ leetcode-problems-solution
 | [0200-number-of-islands](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
@@ -526,6 +530,7 @@ leetcode-problems-solution
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0700-search-in-a-binary-search-tree) |
