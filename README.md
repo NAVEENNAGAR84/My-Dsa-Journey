@@ -399,6 +399,7 @@ leetcode-problems-solution
 | [0958-check-completeness-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -480,6 +481,7 @@ leetcode-problems-solution
 | [0958-check-completeness-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
