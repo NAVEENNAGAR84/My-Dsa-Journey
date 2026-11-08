@@ -24,6 +24,7 @@ leetcode-problems-solution
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0058-length-of-last-word) |
@@ -232,6 +233,7 @@ leetcode-problems-solution
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
@@ -577,6 +579,7 @@ leetcode-problems-solution
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0713-subarray-product-less-than-k) |
