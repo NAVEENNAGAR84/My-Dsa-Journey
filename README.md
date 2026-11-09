@@ -442,6 +442,7 @@ leetcode-problems-solution
 | [0886-possible-bipartition](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0886-possible-bipartition) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -512,6 +513,7 @@ leetcode-problems-solution
 | [0958-check-completeness-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Simulation
 |  |
@@ -604,6 +606,7 @@ leetcode-problems-solution
 | [0695-max-area-of-island](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0886-possible-bipartition) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -624,6 +627,7 @@ leetcode-problems-solution
 | [0743-network-delay-time](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0886-possible-bipartition) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
 | ------- |
