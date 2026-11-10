@@ -31,6 +31,7 @@ leetcode-problems-solution
 | [0214-shortest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
@@ -218,6 +219,7 @@ leetcode-problems-solution
 | [0347-top-k-frequent-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -242,6 +244,7 @@ leetcode-problems-solution
 | [0347-top-k-frequent-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -275,6 +278,7 @@ leetcode-problems-solution
 | [0190-reverse-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0693-binary-number-with-alternating-bits) |
