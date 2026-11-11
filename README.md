@@ -48,6 +48,7 @@ leetcode-problems-solution
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1446-consecutive-characters) |
+| [3146-permutation-difference-between-two-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3146-permutation-difference-between-two-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -270,6 +271,7 @@ leetcode-problems-solution
 | [2404-most-frequent-even-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2615-sum-of-distances) |
+| [3146-permutation-difference-between-two-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
