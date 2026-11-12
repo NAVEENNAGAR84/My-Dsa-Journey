@@ -33,6 +33,7 @@ leetcode-problems-solution
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0520-detect-capital) |
@@ -96,6 +97,7 @@ leetcode-problems-solution
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0492-construct-the-rectangle) |
@@ -281,6 +283,7 @@ leetcode-problems-solution
 | [0191-number-of-1-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0693-binary-number-with-alternating-bits) |
