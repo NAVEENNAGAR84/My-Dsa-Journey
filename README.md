@@ -35,6 +35,7 @@ leetcode-problems-solution
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -98,6 +99,7 @@ leetcode-problems-solution
 | [0172-factorial-trailing-zeroes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0492-construct-the-rectangle) |
@@ -527,6 +529,7 @@ leetcode-problems-solution
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0415-add-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
