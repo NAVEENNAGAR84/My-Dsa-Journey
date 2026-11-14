@@ -109,6 +109,7 @@ leetcode-problems-solution
 | [0836-rectangle-overlap](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
+| [0989-add-to-array-form-of-integer](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -192,6 +193,7 @@ leetcode-problems-solution
 | [0942-di-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0942-di-string-match) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0986-interval-list-intersections) |
+| [0989-add-to-array-form-of-integer](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
