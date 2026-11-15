@@ -25,6 +25,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0058-length-of-last-word) |
@@ -96,6 +97,7 @@ leetcode-problems-solution
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -243,6 +245,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0217-contains-duplicate) |
