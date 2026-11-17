@@ -115,6 +115,7 @@ leetcode-problems-solution
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [0989-add-to-array-form-of-integer](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -203,6 +204,7 @@ leetcode-problems-solution
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [1991-find-the-middle-index-in-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2121-intervals-between-identical-elements](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2121-intervals-between-identical-elements) |
@@ -336,6 +338,7 @@ leetcode-problems-solution
 | [0836-rectangle-overlap](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0892-surface-area-of-3d-shapes) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Matrix
 |  |
 | ------- |
