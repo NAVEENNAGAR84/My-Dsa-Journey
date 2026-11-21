@@ -16,6 +16,7 @@ leetcode-problems-solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0922-sort-array-by-parity-ii) |
@@ -40,6 +41,7 @@ leetcode-problems-solution
 | [0415-add-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0692-top-k-frequent-words) |
