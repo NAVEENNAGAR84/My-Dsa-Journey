@@ -54,6 +54,7 @@ leetcode-problems-solution
 | [1392-longest-happy-prefix](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1392-longest-happy-prefix) |
 | [1436-destination-city](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/1446-consecutive-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/3146-permutation-difference-between-two-strings) |
 ## String Matching
 |  |
