@@ -146,6 +146,7 @@ leetcode-problems-solution
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0057-insert-interval) |
@@ -358,6 +359,7 @@ leetcode-problems-solution
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAVEENNAGAR84/My-Dsa-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
